@@ -2,6 +2,7 @@
 
 A hands-on progression of Python projects evolving from basic logic and CLI scripts into modular architecture, safe expression evaluation, and visual Tkinter interfaces.
 [https://www.online-python.com/tkinter/XZw1HOGPe1]
+[https://www.online-python.com/tkinter/hrR8GeCb2J]
 ## Calculators
 - **Simple Lilac GUI (`simple_calc_lilac.py`):** Clean beginner calculator in a soft light-purple Tkinter interface with `+`, `-`, `*`, `/`, `%`, decimals, backspace, clear, and divide-by-zero handling.
 - **Medium Engine (`calc_medium.py`):** Adds operation dictionaries, state tracking, undo/redo stacks, history search, and JSON persistence.
