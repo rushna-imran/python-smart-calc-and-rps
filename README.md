@@ -293,7 +293,9 @@ FONT_SCREEN = ("Consolas", 20, "bold")
 FONT_SUB = ("Consolas", 9)
 FONT_KEY = ("Segoe UI", 12, "bold")
 FONT_OP = ("Segoe UI", 11, "bold")
-
+```
+<img width="346" height="502" alt="Screenshot 2026-11-20 225119" src="https://github.com/user-attachments/assets/35d782f8-7bfa-400d-8f72-88b55e9a4498" />
+```                                                              
 
 class SimpleLilacCalculator:
 
@@ -499,4 +501,5 @@ class SimpleLilacCalculator:
       self.current_input = ""
       self.operator = None
       self.just_calculated = True
+<img width="437" height="439" alt="Screenshot 2026-11-20 223809" src="https://github.com/user-attachments/assets/c127470e-0a89-4e46-b292-8694620d943e" />
 
